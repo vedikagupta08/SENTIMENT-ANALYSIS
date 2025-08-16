@@ -10,13 +10,14 @@ DOMAIN: DATA ANALYTICS
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
-#📊 Amazon Sentiment Analysis
+
+#Amazon Sentiment Analysis
 
 Amazon receives millions of product reviews every day. Understanding whether these reviews are positive, negative, or neutral is crucial for businesses to improve customer experience, detect issues, and identify market trends.
 
 This project applies Natural Language Processing (NLP) and Machine Learning/Deep Learning techniques to classify Amazon customer reviews based on sentiment.
 
-#🚀 Features
+#Features
 
 ✅ Collects and processes Amazon product reviews
 ✅ Cleans and preprocesses text (lowercasing, punctuation removal, tokenization, stopword removal)
@@ -30,7 +31,7 @@ This project applies Natural Language Processing (NLP) and Machine Learning/Deep
 Amazon reviews datset is used from kaggle 
 https://1drv.ms/x/c/029a3e0d32f96e09/Efh6lc-PJX9LtTkDZEffbcEBF3bTzdT_OAVSlFgTTWr49w?e=MCs8C2
 
-#🛠 Tech Stack
+#Tech Stack
 
 Programming Language: Python
 
@@ -44,7 +45,7 @@ Deep Learning (optional): LSTM / BERT for advanced sentiment analysis
 
 Visualization: Matplotlib, Seaborn, WordCloud
 
-#📂 Project Workflow
+#Project Workflow
 
 Data Collection – Amazon review dataset (CSV/JSON)
 
@@ -70,7 +71,7 @@ Predict unseen review sentiment
 
 Display sentiment analysis results graphically
 
-#🎯 Objective
+#Objective
 
 Help businesses understand customer opinions at scale
 
@@ -80,7 +81,7 @@ Identify trending sentiments for product marketing
 
 Provide a foundation for real-time sentiment analysis systems
 
-#📊 Example Output
+#Example Output
 
 Sentiment Distribution:
 
@@ -94,7 +95,7 @@ Word Cloud showing most frequent positive/negative words
 
 Confusion matrix showing model performance
 
-#🚀 Future Enhancements
+#Future Enhancements
 
 Integrate with a dashboard (Streamlit/Flask/Django) for live analysis
 

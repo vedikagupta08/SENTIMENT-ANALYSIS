@@ -20,11 +20,17 @@ This project applies Natural Language Processing (NLP) and Machine Learning/Deep
 # Features
 
 ✅ Collects and processes Amazon product reviews
+
 ✅ Cleans and preprocesses text (lowercasing, punctuation removal, tokenization, stopword removal)
+
 ✅ Converts text into numerical features (TF-IDF, Word2Vec, or BERT embeddings)
+
 ✅ Classifies reviews into Positive, Negative, Neutral categories
+
 ✅ Provides accuracy, precision, recall, and F1-score metrics
+
 ✅ Visualizes sentiment distribution (pie chart, bar graph, word cloud)
+
 ✅ Can be extended for real-time sentiment monitoring
 
 # Dataset
